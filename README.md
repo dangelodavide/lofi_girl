@@ -1,4 +1,7 @@
-# Lofi Girl Music Player
+<h1>
+<img src="https://styles.redditmedia.com/t5_2i035a/styles/communityIcon_a14mtjrrbnv81.png" style="width: 50px; height: 50px; vertical-align: middle;"> 
+Lofi Girl Music Player
+</h1>
 
 This project is a simple Lofi music player that plays a selection of relaxing tracks. It is built using the Python programming language and utilizes the Tkinter library for the graphical user interface, along with Pygame for audio playback.
 
