@@ -10,8 +10,6 @@ This project is a simple Lofi music player that plays a selection of relaxing tr
 - Play a selection of relaxing Lofi tracks.
 - Buttons to play, pause, and resume the music.
 - Button to skip forward by 10 seconds in the current track.
-- Volume control through a slider.
-- Custom background with an image of a Lofi girl.
 
 ## Tracklist
 
