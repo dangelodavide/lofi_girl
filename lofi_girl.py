@@ -36,7 +36,7 @@ play_button.place(x=10, y=10)
 pause_button = tk.Button(canvas, text="Pause", command=pause_song, bg="cyan", fg="black", font=("Arial", 12, "bold"), highlightthickness=-1, highlightbackground="white")
 pause_button.place(relx=0.5, rely=0.9, anchor=tk.CENTER, x=-80, y=-40)
 
-unpause_button = tk.Button(canvas, text="Plat", command=unpause_song, bg="cyan", fg="black", font=("Arial", 12, "bold"), highlightthickness=-1, highlightbackground="white")
+unpause_button = tk.Button(canvas, text="Play", command=unpause_song, bg="cyan", fg="black", font=("Arial", 12, "bold"), highlightthickness=-1, highlightbackground="white")
 unpause_button.place(relx=0.5, rely=0.9, anchor=tk.CENTER, y=-40)
 
 skip_button = tk.Button(canvas, text="Forward", command=skip_forward, bg="cyan", fg="black", font=("Arial", 12, "bold"), highlightthickness=-1, highlightbackground="white")
